@@ -43,7 +43,7 @@ googleAnalytics = ""
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "A Sharp Pencil & A Dream Can Take You Anywhere"
-		subtitle   = "Keeping you & your business online through attention to detail with no bulldust straight talking"
+		subtitle   = "Keeping you & your business online through attention to detail with no bulldust just straight talking"
 		buttonText = "Find out more"
 
 
