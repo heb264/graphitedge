@@ -29,13 +29,12 @@ googleAnalytics = ""
 
 	# Navigation
 	[params.navigation]
-		brand = "GraphitEdge"
+		brand = "Graphitedge"
 
 		[params.navigation.links]
 			about     = "About"
 			services  = "Services"
 			portfolio = "Portfolio"
-            blog      = "Blog"
 			contact   = "Contact"
 
 
