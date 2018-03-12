@@ -43,7 +43,7 @@ googleAnalytics = ""
 	[params.hero]
 		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
 		slogan     = "A Sharp Pencil & A Dream Can Take You Anywhere"
-		subtitle   = "Keeping you and your business online through attention to detail and no bulldust straight talking"
+		subtitle   = "Keeping you & your business online through attention to detail with no bulldust straight talking"
 		buttonText = "Find out more"
 
 
@@ -84,11 +84,11 @@ googleAnalytics = ""
 
     # Aside section
 	[params.aside]
-		headline = "Get the Creative Theme for Hugo"
+		headline = "Get the Creative with Graphitedge"
 
 		[params.aside.button]
-			text = "Download now"
-			link = "//github.com/digitalcraftsman/hugo-creative-theme"
+			text = ""
+			link = ""
 
 	# Contact section
 	[params.contact]
