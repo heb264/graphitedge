@@ -7,13 +7,13 @@
         "items": [
             {
                 "name": "Course Development",
-                "url": "#"
+                "url": "/recent-works/0/"
             }
         ]
     },
     {
         "id": 1,
-        "name": "Soulbright",
+        "name": "Soulbright.com.au",
         "image": "images/soulbright.jpg",
         "url": "#",
         "items": [
