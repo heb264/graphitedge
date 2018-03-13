@@ -1,5 +1,6 @@
 +++
 title = "Site Security"
+icon = "fa-shield-check"
 +++
 
 "With Security being the topic of the moment, have Helen take a look at the security of your site via a Security Site Checkup. Helen can then advise you on how to keep your website and clients safe."
