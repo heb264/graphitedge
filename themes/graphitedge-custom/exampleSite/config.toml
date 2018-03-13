@@ -1,29 +1,13 @@
-baseurl = "https://graphitedge.com.au"
+baseURL = "https://miguelsimoni.github.io/hugo-initio-site/"
 languageCode = "en-us"
-title = "Graphitedge"
-theme = "graphitedge-custom"
-googleAnalytics = ""
+title = "Initio - Free, multipurpose html5 template by GetTemplate"
+theme = "hugo-initio"
+publishDir = "docs"
 
 [params]
-
-	# You can use Markdown syntax for urls [text](//url.to/source) for
-	# most longer texts.
-
-	# All icons using Fontawesome's icon font. Look at http://fontawesome.io/icons/
-	# for more icons. The icons are represented by their corresponding
-	# CSS class.
-
-	# All projects of the portfolio are defined in their own files.
-	# You can find example projects at 'exampleSite/data/projects'. Copy the 'projects'
-	# folder into the 'data' directory at the root of this Hugo site.
-	# For more information take a look at the README.
-
-	# To provide some metadata for search engines feel free to add some
-	# information about you and your website.
-	name = "Graphitedge"
-	description = "A Sharp Pencil & A Dream Can Take You Anywhere"
-
-	email = "info@graphitedge.comm.au"
+    name = "Anthony Russel"
+    description = "A mystery person"
+    email = "anthony.russel42@example.com"
     phone = "+234 23 9873237"
     address = "234 Hidden Pond Road, Ashland City, TN 37015"
     year = 2017
@@ -34,7 +18,7 @@ googleAnalytics = ""
     showSubheader = true
     showServices = true
     showRecentWorks = true
-    showDownload = false
+    showDownload = true
     showClients = true
 
     footerEnableContact = true
@@ -51,12 +35,6 @@ googleAnalytics = ""
     url = "/post/"
     weight = 5
 
-	# Hero section
-	[params.hero]
-		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "A Sharp Pencil & A Dream Can Take You Anywhere"
-		subtitle   = "Keeping you & your business online through attention to detail with no bulldust just straight talking"
-		buttonText = "Find out more"
 [params.disqus]
     site = "hugo-initio-site.disqus.com"
 
@@ -123,4 +101,3 @@ googleAnalytics = ""
     footer = false
     sharethis = true
     network = "email"
-	
