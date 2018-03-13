@@ -1,7 +1,7 @@
 baseurl = "https://graphitedge.com.au"
 languageCode = "en-us"
 title = "Graphitedge"
-theme = "graphitedge-custom"
+theme = "graphite-custom"
 googleAnalytics = ""
 
 [params]
