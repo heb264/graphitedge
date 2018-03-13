@@ -26,7 +26,7 @@ googleAnalytics = ""
 	email = "info@graphitedge.comm.au"
     phone = "+234 23 9873237"
     address = "234 Hidden Pond Road, Ashland City, TN 37015"
-    year = 2017
+    year = 2018
     background = ""
     favicon = "images/gt_favicon.png"
     DateForm = "January 2, 2006"
@@ -51,32 +51,26 @@ googleAnalytics = ""
     url = "/post/"
     weight = 5
 
-	# Hero section
-	[params.hero]
-		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "A Sharp Pencil & A Dream Can Take You Anywhere"
-		subtitle   = "Keeping you & your business online through attention to detail with no bulldust just straight talking"
-		buttonText = "Find out more"
 [params.disqus]
-    site = "hugo-initio-site.disqus.com"
+    site = ""
 
 [params.sharethis]
-    property = "123456789012345678901234"
+    property = "5aa60cf5589d90001319f50e"
     custom = true
 
 [params.google.analytics]
-    trackerID = "GA-000000000-0"
+    trackerID = "UA-76054930-1"
 
 [[params.social]]
 	title = "facebook"
-	url = "https://www.facebook.com/nickname"
+	url = "https://www.facebook.com/graphitedg"
     icon = "fa-facebook-square"
     footer = true
     sharethis = true
     network = "facebook"
 [[params.social]]
 	title = "twitter"
-	url = "https://twitter.com/nickname"
+	url = "https://twitter.com/graphitedgeau"
     icon = "fa-twitter-square"
     footer = true
     sharethis = true
@@ -85,7 +79,7 @@ googleAnalytics = ""
 	title = "instagram"
 	url = "https://www.instagram.com/nickname"
     icon = "fa-instagram"
-    footer = true
+    footer = false
     sharethis = false
     network = ""
 [[params.social]]
@@ -93,14 +87,14 @@ googleAnalytics = ""
 	url = "https://plus.google.com/+nickname"
     icon = "fa-google-plus-square"
     footer = false
-    sharethis = true
+    sharethis = false
     network = "googleplus"
 [[params.social]]
 	title = "linkedin"
 	url = "https://www.linkedin.com/in/nickname"
     icon = "fa-linkedin-square"
     footer = false
-    sharethis = true
+    sharethis = false
     network = "linkedin"
 [[params.social]]
 	title = "tumblr"
@@ -113,12 +107,12 @@ googleAnalytics = ""
 	title = "github"
 	url = "https://github.com/nickname"
     icon = "fa-github"
-    footer = true
+    footer = false
     sharethis = false
     network = ""
 [[params.social]]
 	title = "email"
-	url = "mailto:some.email@somewhere.com"
+	url = "mailto:info@graphitedge.com.au"
     icon = "fa-envelope"
     footer = false
     sharethis = true
