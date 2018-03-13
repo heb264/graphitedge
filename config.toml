@@ -1,7 +1,7 @@
-baseurl = "https://example.org/"
+baseurl = "https://graphitedge.com.au"
 languageCode = "en-us"
 title = "Graphitedge"
-theme = "hugo-creative"
+theme = "graphitedge-custom"
 googleAnalytics = ""
 
 [params]
@@ -21,84 +21,100 @@ googleAnalytics = ""
 	# To provide some metadata for search engines feel free to add some
 	# information about you and your website.
 	name = "Graphitedge"
-	description = "Your description"
+	description = "A Sharp Pencil & A Dream Can Take You Anywhere"
 
-	# The path must be relative to the static folder
-	favicon = "favicon.ico"
+	email = "info@graphitedge.comm.au"
+    phone = "+234 23 9873237"
+    address = "234 Hidden Pond Road, Ashland City, TN 37015"
+    year = 2018
+    background = ""
+    favicon = "images/gt_favicon.png"
+    DateForm = "January 2, 2006"
 
- 
-	# Navigation
-	[params.navigation]
-		brand = "Graphitedge"
+    showSubheader = true
+    showServices = true
+    showRecentWorks = true
+    showDownload = false
+    showClients = true
 
-		[params.navigation.links]
-			about     = ""
-			services  = ""
-			portfolio = ""
-			contact   = "Contact"
-	#main menu
+    footerEnableContact = true
+    footerEnableFollowme = true
+    footerEnableTextWidget = true
+    footerEnableFormWidget = true
 
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "blog"
+    url = "/post/"
+    weight = 5
 
-	# Hero section
-	[params.hero]
-		# To change the background of the hero section, replace the 'header.jpg' at './static/img' with your own.
-		slogan     = "A Sharp Pencil & A Dream Can Take You Anywhere"
-		subtitle   = "Keeping you & your business online through attention to detail with no bulldust just straight talking"
-		buttonText = "Find out more"
+[params.disqus]
+    site = ""
 
+[params.sharethis]
+    property = "5aa60cf5589d90001319f50e"
+    custom = true
 
-	# About section
-	[params.about]
-		headline    = "We've got what you need!"
-		description = "Whether it is just keeping your site's content management system upto date or creating a new look and feel for your site or even making sure that it is as secure as it can be."
-		buttonText  = "Get started!"
+[params.google.analytics]
+    trackerID = "UA-76054930-1"
 
-
-	# Service section
-	[params.services]
-		headline = "At your service"
-
-        [[params.services.list]]
-            icon = "fa-cogs"
-            title = "Website Master - The maintainer YOU need "
-            description = "Since website downtime can be a costly thing for your business, Helen is able guide you through being a novice to web master in how to keep your site up and running. "
-
-        [[params.services.list]]
-			icon = "fa-object-group"
-			title = "Responsive Design "
-			description = "And if that sounds not like your ballpark then Helen is able to take your site mockups and using various techniques in CSS and HTML (with or without frameworks) to create and deploy a responsive website for you."
-
-		[[params.services.list]]
-            icon = "fa-shield-alt"
-            title = "Security"
-            description = "With Security being the topic of the moment, have Helen take a look at the security of your site via a Security Site Checkup. Helen can then advise you on how to keep your website and clients safe."
-
-
-
-    # Portfolio modals
-	[params.portfolio.modal]
-        client = "Client"
-        date = "Date"
-        category = "Category"
-        buttonText = "Close"
-
-    # Aside section
-	[params.aside]
-		headline = "Get the Creative with Graphitedge"
-
-		[params.aside.button]
-			text = ""
-			link = ""
-
-	# Contact section
-	[params.contact]
-		headline = "Let's Get In Touch!"
-		description = "Ready to start your next project with us? That's great! Give us a call or send us an email and we will get back to you as soon as possible!"
-		phone = "+61861025624"
-		email = "info@graphitedge.com.au"
-
-	# Google Maps section
-	[params.location]
-	latitude  = "-31.824685"
-	longitude = "115.804274"
-	maps_api_key = " AIzaSyCaUtRG0HJInM4Zlc401WO5RQJCoBiVYQg "
+[[params.social]]
+	title = "facebook"
+	url = "https://www.facebook.com/graphitedg"
+    icon = "fa-facebook-square"
+    footer = true
+    sharethis = true
+    network = "facebook"
+[[params.social]]
+	title = "twitter"
+	url = "https://twitter.com/graphitedgeau"
+    icon = "fa-twitter-square"
+    footer = true
+    sharethis = true
+    network = "twitter"
+[[params.social]]
+	title = "instagram"
+	url = "https://www.instagram.com/nickname"
+    icon = "fa-instagram"
+    footer = false
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "google+"
+	url = "https://plus.google.com/+nickname"
+    icon = "fa-google-plus-square"
+    footer = false
+    sharethis = false
+    network = "googleplus"
+[[params.social]]
+	title = "linkedin"
+	url = "https://www.linkedin.com/in/nickname"
+    icon = "fa-linkedin-square"
+    footer = false
+    sharethis = false
+    network = "linkedin"
+[[params.social]]
+	title = "tumblr"
+	url = "https://nickname.tumblr.com"
+    icon = "fa-tumblr-square"
+    footer = false
+    sharethis = false
+    network = "tumblr"
+[[params.social]]
+	title = "github"
+	url = "https://github.com/nickname"
+    icon = "fa-github"
+    footer = false
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "email"
+	url = "mailto:info@graphitedge.com.au"
+    icon = "fa-envelope"
+    footer = false
+    sharethis = true
+    network = "email"
+	
