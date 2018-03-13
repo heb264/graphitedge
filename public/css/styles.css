@@ -504,13 +504,13 @@ img {
 
 .thumbnail .title {
     text-transform: uppercase;
-    font-weight: 700;
-    margin: 2.5em 2em;
+    margin: 0 2em;
     display: block;
     text-indent: 0;
 }
 
 .thumbnail .cover {
+    position: absolute;
     display: block;
     opacity: 0;
     width: 100%;

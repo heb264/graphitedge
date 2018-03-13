@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent-works on Graphitedge</title>
+    <link>https://graphitedge.com.au/recent-works/</link>
+    <description>Recent content in Recent-works on Graphitedge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://graphitedge.com.au/recent-works/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WordPress Course for Codemaster Institute</title>
+      <link>https://graphitedge.com.au/recent-works/0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://graphitedge.com.au/recent-works/0/</guid>
+      <description>The creation and recording of video for the Go WordPress Online Course that takes students from installing on both the local and remote environments through to adding in Woo Commerce plus configuring it.</description>
+    </item>
+    
+  </channel>
+</rss>

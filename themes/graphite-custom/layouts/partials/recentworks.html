@@ -1,27 +1,28 @@
-<div class="row section recentworks topspace">
+<div class="container section recentworks topspace">
 
     <h2 class="section-title"><span>Recent Works</span></h2>
+    <div class="row thumbnails">
 
-    <div class="col-lg-4 col-sm-6 portfolio-item">
-        {{ range $index, $area := .Site.Data.recentworks }}
-            <div class="card h-100">
-                <a class="card-img-top" href="{{ .url }}">
-                    <span class="img">
-                        <img src="{{ .image }}" alt="">
-                        <span class="cover"><span class="more">See details &rarr;</span></span>
-                    </span>
-                    <span class="title">{{ .name }}</span>
-                </a>
-                <div class="card-body">
-                    {{ $len := sub (len .items) 1 }}
-                    {{ range $i, $item := where .items "id" .index }}
-                        <h4 class="card-title">{{.name}}</h4>
-                        <a href="{{ .url }}">{{ .name }}</a>
-                        {{ if gt $len $i }} | {{ end }}
-                    {{ end }}
+            {{ range $index, $area := .Site.Data.recentworks }}
+                <div class="col-lg-4 col-sm-6 portfolio-item">
+                <div class="card h-50 thumbnail">
+                    <a class="card-img-top" href="{{ .url }}">
+                            <img src="{{ .image }}" alt="" >
+                            <span class="cover"><span class="more">See details &rarr;</span></span>
+                        <span class="title">{{ .name }}</span>
+                    </a>
+                    <div class="card-body">
+                        {{ $len := sub (len .items) 1 }}
+                        {{ range $i, $item := where .items "id" .index }}
+                            <a href="{{ .url }}">{{ .name }}</a>
+                            {{ if gt $len $i }} | {{ end }}
+                        {{ end }}
+                    </div>
                 </div>
-            </div>
-        {{ end }}
-    </div>
 
-</div> <!-- /section -->
+    </div>
+            {{ end }}
+        </div>
+
+</div>
+<!-- /section -->

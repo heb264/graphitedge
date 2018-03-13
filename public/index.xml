@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Graphitedge</title>
+    <link>https://graphitedge.com.au/</link>
+    <description>Recent content on Graphitedge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Jun 2013 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://graphitedge.com.au/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://graphitedge.com.au/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://graphitedge.com.au/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
+Necessitatibus Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!</description>
+    </item>
+    
+    <item>
+      <title>Vivamus Lacus Mauris</title>
+      <link>https://graphitedge.com.au/post/vivamus-lacus-mauris/</link>
+      <pubDate>Mon, 17 Jun 2013 12:00:00 +0000</pubDate>
+      
+      <guid>https://graphitedge.com.au/post/vivamus-lacus-mauris/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, rerum voluptates veniam. Esse, nihil, ea, eaque, quos cum id tempore voluptate nisi nemo debitis impedit officiis culpa repellat voluptatum in aperiam error quo minima ratione ex pariatur maxime eligendi dolore nesciunt molestiae enim alias atque commodi delectus perferendis. Blanditiis, iste placeat nostrum in! Eligendi, omnis, unde, quos ullam nesciunt molestias quis a saepe nisi distinctio molestiae voluptate obcaecati officiis consequuntur similique aspernatur rerum sequi placeat iure quaerat itaque libero officia recusandae ad corrupti aperiam cum beatae.</description>
+    </item>
+    
+    <item>
+      <title>Responsive Development</title>
+      <link>https://graphitedge.com.au/service/service3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://graphitedge.com.au/service/service3/</guid>
+      <description>&lt;p&gt;&amp;ldquo;And if that sounds not like your ballpark then Helen is able to take your site mockups and using various techniques in CSS and HTML (with or without frameworks) to create and deploy a responsive website for you.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Site Security</title>
+      <link>https://graphitedge.com.au/service/service4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://graphitedge.com.au/service/service4/</guid>
+      <description>&lt;p&gt;&amp;ldquo;With Security being the topic of the moment, have Helen take a look at the security of your site via a Security Site Checkup. Helen can then advise you on how to keep your website and clients safe.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Web Mastery</title>
+      <link>https://graphitedge.com.au/service/service1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://graphitedge.com.au/service/service1/</guid>
+      <description>&lt;p&gt;The Site Maintainer YOU need.
+Since website downtime can be a costly thing for your business, Helen is able guide you through being a novice to web master in how to keep your site up and running.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>WordPress Course for Codemaster Institute</title>
+      <link>https://graphitedge.com.au/recent-works/0/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://graphitedge.com.au/recent-works/0/</guid>
+      <description>The creation and recording of video for the Go WordPress Online Course that takes students from installing on both the local and remote environments through to adding in Woo Commerce plus configuring it.</description>
+    </item>
+    
+    <item>
+      <title>Wordpress Consultation</title>
+      <link>https://graphitedge.com.au/service/service2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://graphitedge.com.au/service/service2/</guid>
+      <description>&lt;p&gt;As Matt Mullenweg has stated that he is looking to have 50% of all website run by WordPress, the need for guidance to have an effective site using Wordpress is ever increasing. Helen provides this guidance and builds sites according to an agreed scope.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,6 @@
     <div class="row">
         {{ range where .Data.Pages "Section" "service" }}
             <div class="col-lg-3 mb-3">
-                <i class="fas {{ .icon }} fa-4x text-primary"></i>
                 <h3 class="text-center">{{ .Title }}</h3>
                 <p>{{ .Summary }}</p>
                 <p class="text-center"><a href="{{ .Permalink }}" class="btn btn-action">Read more</a></p>
