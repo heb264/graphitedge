@@ -21,7 +21,7 @@
 					<p class="follow-me-icons">
                         {{ range .Site.Params.social }}
                             {{ if .footer }}
-                                <a href="{{ .url }}" target="_blank"><i class="fa {{ .icon }} fa-2"></i></a>
+                                <a href="{{ .url }}" target="_blank"><i class="{{ .icon }} fa-2"></i></a>
                             {{ end }}
                         {{ end }}
 					</p>
@@ -70,7 +70,7 @@
 				<div class="widget-body">
 					<p class="text-right">
 						Copyright &copy; {{ .Site.Params.year }}, {{ .Site.Params.name }}<br>
-						Design: <a href="http://www.gettemplate.com" rel="designer">Initio by GetTemplate</a> - 
+						Design: GraphitEdge - 
                         Powered by: <a href="https://gohugo.io/" rel="poweredby">Hugo</a>
                     </p>
 				</div>
