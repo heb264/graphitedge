@@ -4,7 +4,7 @@
     <div class="row thumbnails">
 
             {{ range $index, $area := .Site.Data.recentworks }}
-                <div class="col-lg-4 col-sm-6 portfolio-item">
+                <div class="col-lg-4 col-sm-6 portfolio-item" style="margin-left: .5em; margin-right:0.5em">
                 <div class="card h-50 thumbnail">
                     <a class="card-img-top" href="{{ .url }}">
                             <img src="{{ .image }}" alt="" >
