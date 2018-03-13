@@ -1,8 +1,8 @@
 +++
-title = "SEO & SEM services"
+title = "Site Security"
 +++
 
-I don't think they tried to market it to the billionaire, spelunking, base-jumping crowd. i did the same thing to gandhi, he didn't eat for three weeks. i once heard a wise man say there are no perfect men.
+"With Security being the topic of the moment, have Helen take a look at the security of your site via a Security Site Checkup. Helen can then advise you on how to keep your website and clients safe."
 
 <!--more-->
 

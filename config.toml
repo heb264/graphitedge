@@ -35,7 +35,7 @@ googleAnalytics = ""
     showServices = true
     showRecentWorks = true
     showDownload = false
-    showClients = true
+    showClients = false
 
     footerEnableContact = true
     footerEnableFollowme = true
