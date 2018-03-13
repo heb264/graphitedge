@@ -1,4 +1,4 @@
-baseurl = "https://graphitedge.com.au"
+baseurl = "https://graphitedge.com.au/"
 languageCode = "en-us"
 title = "Graphitedge"
 theme = "graphite-custom"
