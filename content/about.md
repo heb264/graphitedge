@@ -5,14 +5,16 @@ type = "about"
 weight = 10
 +++
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eveniet, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam beatae soluta accusantium iusto nihil nesciunt unde veniam magnam repudiandae sapiente.
+GraphitEdge is Helen Burgess and Helen Burgess is GraphitEdge. 
 
 ![about](../images/mac.jpg)
 
-### Necessitatibus
+### The Story behind the logo and name
 
-Velit, odit, eius, libero unde impedit quaerat dolorem assumenda alias consequuntur optio quae maiores ratione tempore sit aliquid architecto eligendi pariatur ab soluta doloremque dicta aspernatur labore quibusdam dolore corrupti quod inventore. Maiores, repellat, consequuntur eius repellendus eos aliquid molestiae ea laborum ex quibusdam laudantium voluptates placeat consectetur quam aliquam!
+Helen's nickname for the longest time as HB as in HB pencil. This spurred the idea to call her business Graphite Edge. Well, why Graphite Edge? Most of the best names for having a sharp pencil were already taken and by talking with some of her industry besties, Helen decided to take a twist on the name. Until modern formulations changed the lead in a pencil it had always been graphite or a similar substance. Edge because the edge of paper and the saying "having the edge" provided the second part of the name. 
+So Graphite Edge was born. "Hang on", you say, "how come you lost an E?" Well that is simple to explain I just don't like typing in two e's and I thought it made the business name unique. So that is what it looks like GraphitEdge. 
 
-### Fugit, laboriosam
+### Helen's Story
 
-Eum, quasi, est, vitae, ipsam nobis consectetur ea aspernatur ad eos voluptatibus fugiat nisi perferendis impedit. Quam, nulla, excepturi, voluptate minus illo tenetur sint ab in culpa cumque impedit quibusdam. Saepe, molestias quia voluptatem natus velit fugiat omnis rem eos sapiente quasi quaerat aspernatur quisquam deleniti accusantium laboriosam odio id?
+Although, Helen has her own private site, all her consultations and contract work goes through GraphitEdge. Helen has been doing the computer thing for a while now. 
+As a client you get full access to Helen's knowledge and skills, that has been built up over a period of years. Also you can rely on Helen when she states that she will get something done. 
