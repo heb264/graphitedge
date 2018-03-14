@@ -12,6 +12,26 @@
   </url>
   
   <url>
+    <loc>https://graphitedge.com.au/service/service3/</loc>
+    <lastmod>2015-07-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://graphitedge.com.au/service/service4/</loc>
+    <lastmod>2015-07-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://graphitedge.com.au/service/service1/</loc>
+    <lastmod>2015-07-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://graphitedge.com.au/service/service2/</loc>
+    <lastmod>2015-07-01T00:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://graphitedge.com.au/post/life-was-simple-once/</loc>
     <lastmod>2013-06-17T12:00:00+00:00</lastmod>
   </url>
@@ -39,16 +59,9 @@
   </url>
   
   <url>
-    <loc>https://graphitedge.com.au/service/service3/</loc>
-  </url>
-  
-  <url>
     <loc>https://graphitedge.com.au/service/</loc>
+    <lastmod>2015-07-01T00:00:00+08:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://graphitedge.com.au/service/service4/</loc>
   </url>
   
   <url>
@@ -57,15 +70,7 @@
   </url>
   
   <url>
-    <loc>https://graphitedge.com.au/service/service1/</loc>
-  </url>
-  
-  <url>
     <loc>https://graphitedge.com.au/recent-works/0/</loc>
-  </url>
-  
-  <url>
-    <loc>https://graphitedge.com.au/service/service2/</loc>
   </url>
   
 </urlset>

@@ -1,4 +1,5 @@
 +++
+date = 2015-07-01
 title = "Wordpress Consultation"
 icon = "fa-wordpress-simple"
 +++
