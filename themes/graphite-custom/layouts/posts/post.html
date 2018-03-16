@@ -1,0 +1,73 @@
+{{ partial "header.html" . }}
+
+<main id="main" aria-role="main">
+
+	<div class="container">
+
+		<div class="row topspace">
+		<div class="col-sm-4">
+		<aside id="meta">
+				<div>
+				<section>
+					<h4 id="date"> {{ .Date.Format "Mon Jan 2, 2006" }} </h4>
+					<h5 id="wordcount"> {{ .WordCount }} Words </h5>
+				</section>
+				{{ with .Params.topics }}
+				<ul id="topics">
+					{{ range . }}
+					<li><a href="{{ "topics" | absURL}}{{ . | urlize }}">{{ . }}</a> </li>
+					{{ end }}
+				</ul>
+				{{ end }}
+				{{ with .Params.tags }}
+				<ul id="tags">
+					{{ range . }}
+					<li> <a href="{{ "tags" | absURL }}{{ . | urlize }}">{{ . }}</a> </li>
+					{{ end }}
+				</ul>
+				{{ end }}
+				</div>
+				<div>
+					{{ with .PrevInSection }}
+						<a class="previous" href="{{.Permalink}}"> {{.Title}}</a>
+					{{ end }}
+					{{ with .NextInSection }}
+						<a class="next" href="{{.Permalink}}"> {{.Title}}</a>
+					{{ end }}
+				</div>
+			</aside>
+		</div>
+			<div class="col-sm-8">
+
+ 				<article class="post">
+					<header class="entry-header">
+ 						<div class="entry-meta">
+ 							<span class="posted-on"><time class="entry-date published" date="{{ .Date }}">{{ dateFormat .Site.Params.DateForm .Date }}</time></span>
+ 						</div>
+ 						<h1 class="entry-title"><a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a></h1>
+					</header>
+					<div class="entry-content">
+						{{ .Content }}
+					</div>
+				</article><!-- #post-## -->
+
+			</div>
+		</div> <!-- /row post  -->
+
+        <div class="row">
+			<div class="col-sm-8 col-sm-offset-2">
+
+				<div id="share">
+                    {{ if .Params.Share }}
+                       {{ partial "sharethis.html" . }}
+                    {{ end }}
+				</div>
+			</div>
+		</div> <!-- /row share -->
+		<div class="clearfix"></div>
+
+	</div>	<!-- /container -->
+
+</main>
+
+{{ partial "footer.html" . }}

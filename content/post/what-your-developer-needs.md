@@ -4,7 +4,7 @@ date: 2017-09-20T12:26:26+08:00
 draft: false
 ---
 ## Part 1: What your web developer, designer, or agency needs from you
-So you are ready to start a your conversation with your web technologist. Great! There are somethings that you can prepare before hand to help them give you the best advice, design and help.
+So you are ready to start a your conversation with your web technologist. Great! There are somethings that you can prepare before hand to help them give you the best advice, design and help. # more
 Firstly, provide information about what your business actually does. This helps the web technologist get a thorough understanding about what you do, who you are, how long you have been in business, your point of difference from your competitors. This information is so important in regards to how you site is designed to support your business.  If you are building a house you would like the designer and builder to understand how you would live in that house and any particular lifestyle quirks that the house would need to cater for.
 Following on from this,  how is the site going to support your business?  In other words what is the site going to accomplish. This is often called the goal or aim of the website. If it is about selling your products or services then there are a whole section of design decisions that impact on the design compared to a brochure site, with just a blog. If you have a clear understanding about how the site is going to support your business then it means that the web technologist will have a better  understanding. Some questions to think about to provide answer to your web technologist are:
 * Do you want to get more inbound leads, phone enquiries, quote requests?

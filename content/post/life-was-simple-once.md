@@ -1,6 +1,7 @@
 +++
 date = "2013-06-17T12:00:00-00:00"
 title = "Life was simple once ..."
+layout = "post"
 
 +++
 
@@ -8,7 +9,7 @@ The pervasiveness of the technological age.
 
 A telephone was a device for conversation between two people. People wrote letters when they had finished writing they put them in the mailbox. A car may have a radio in it; most cars did have one at all.
 
-Now we have all this “stuff” that is connected. Connected in multiple ways as well. We have a phone that can bring the world to our fingertips. This phone can live in our pocket or bag, store our music or our life, our address book, reminders for life events. It even has a browser that connects to the internet so we can search, read blogs – like this one; and write emails. Saints preserve us if this phone is lost or stolen.
+Now we have all this “stuff” that is connected. Connected in multiple ways as well. We have a phone that can bring the world to our fingertips. # more This phone can live in our pocket or bag, store our music or our life, our address book, reminders for life events. It even has a browser that connects to the internet so we can search, read blogs – like this one; and write emails. Saints preserve us if this phone is lost or stolen.
 
 We have a tablet that can do as much as a phone. For instance, it provides us the ability to contact patients via eHealth apps, giving our elderly relatives and friends a helping hand to stay in their homes for longer. Our phones and tablets even take photos, as quickly and as cheaply as a digital camera of today, unlike back in those simpler times.
 
