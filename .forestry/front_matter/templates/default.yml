@@ -1,11 +1,27 @@
 ---
 hide_body: false
 fields:
+- type: list
+  name: keywords
+  label: keywords
+  description: a place to add keywords for your page
+  config:
+    use_select: false
+    source:
+      type: datafiles
+  default:
+  - ''
 - name: title
   label: Title
   type: text
   hidden: false
   default: ''
+- type: text
+  name: description
+  label: Description
+  description: add the description of the page
+  config:
+    required: true
 - name: date
   label: Date
   type: text
