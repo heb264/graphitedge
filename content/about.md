@@ -1,8 +1,6 @@
 +++
 title = "About"
 type = "about"
-undefined = ""
-weight = 10
 [menu.main]
 weight = 10
 
