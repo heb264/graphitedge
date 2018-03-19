@@ -1,7 +1,14 @@
 ---
-title: "CONVERSATIONS WITH YOUR WEB DEVELOPER, DESIGNER, AGENCY"
-date: 2017-09-20T12:26:26+08:00
-draft: false
+title: CONVERSATIONS WITH YOUR WEB DEVELOPER, DESIGNER, AGENCY
+date: 2017-09-20 12:26:26 +0800
+type: default
+description: Part 1 of having a discussion to start your website project
+keywords:
+- web technologist
+- website project
+- web designer
+- web developer
+
 ---
 ## Part 1: What your web developer, designer, or agency needs from you
 So you are ready to start a your conversation with your web technologist. Great! There are somethings that you can prepare before hand to help them give you the best advice, design and help. # more

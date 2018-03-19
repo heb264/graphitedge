@@ -1,10 +1,12 @@
 +++
-date = "2013-06-17T12:00:00-00:00"
-title = "Life was simple once ..."
+date = "2013-06-17T12:00:00Z"
+description = "A post about the incursion of tech in our lives"
+keywords = ["technology incursion", "simple lifestyle", "future technology"]
 layout = "post"
+title = "Life was simple once ..."
+type = "default"
 
 +++
-
 The pervasiveness of the technological age.
 
 A telephone was a device for conversation between two people. People wrote letters when they had finished writing they put them in the mailbox. A car may have a radio in it; most cars did have one at all.
