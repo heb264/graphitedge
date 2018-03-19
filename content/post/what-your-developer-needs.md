@@ -1,7 +1,7 @@
 ---
 title: CONVERSATIONS WITH YOUR WEB DEVELOPER, DESIGNER, AGENCY
 date: 2017-09-20 12:26:26 +0800
-description: "Part 1 of having a discussion to start your website project"
+description: "Part 2 of having a discussion to start your website project"
 keywords: ["web technologist", "website project", "web designer", "web developer"]
 layout: "post"
 
