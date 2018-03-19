@@ -1,4 +1,6 @@
 ---
+pages:
+- post/life-was-simple-once.md
 hide_body: false
 fields:
 - type: list
