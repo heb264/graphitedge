@@ -4,6 +4,7 @@ date: "2013-06-17T12:00:00Z"
 description: "A post about the incursion of tech in our lives"
 keywords: ["technology incursion", "simple lifestyle", "future technology"]
 layout: "post"
+type: "post"
 
 ---
 ## The pervasiveness of the technological age.

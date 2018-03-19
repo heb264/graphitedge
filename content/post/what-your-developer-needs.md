@@ -4,6 +4,7 @@ date: 2017-09-20 12:26:26 +0800
 description: "Part 2 of having a discussion to start your website project"
 keywords: ["web technologist", "website project", "web designer", "web developer"]
 layout: "post"
+type: "post"
 
 ---
 ## Part 1: What your web developer, designer, or agency needs from you
