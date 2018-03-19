@@ -1,5 +1,6 @@
 ---
 pages:
+- service/service1.md
 - post/what-your-developer-needs.md
 - post/life-was-simple-once.md
 hide_body: false

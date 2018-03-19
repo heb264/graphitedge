@@ -2,8 +2,9 @@
 date = "2015-07-01T00:00:00Z"
 description = "The site maintainer you need to keep your site up to date"
 icon = "fa-cogs"
-keywords = "- graphitedge.com.au - website maintenance - updates - training"
+keywords = ["graphitedge", "web maintenance", "training"]
 title = "Web Mastery"
+type = "default"
 
 +++
 The Site Maintainer YOU need.
