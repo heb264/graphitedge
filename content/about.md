@@ -1,10 +1,11 @@
 +++
-menu = "main"
 title = "About"
 type = "about"
 weight = 10
-+++
+[menu.main]
+weight = 10
 
++++
 GraphitEdge is Helen Burgess and Helen Burgess is GraphitEdge. 
 
 ![about](../images/mac.jpg)
