@@ -5,8 +5,8 @@
 	<div class="container">
 		<div class="row topspace">
 			<div class="col-sm-8 col-sm-offset-2">
-
-                {{ range .Paginator.Pages }}
+				<h2>Latest Stories</h2>
+                {{ range first 4 (where .Data.Pages "Type" "post")}}
 				<article class="post">
 					<header class="entry-header">
 						<div class="entry-meta">

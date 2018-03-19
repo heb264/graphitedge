@@ -3,9 +3,10 @@ googleAnalytics = ""
 languageCode = "en-us"
 theme = "graphite-custom"
 title = "Graphitedge"
+logo =" images/logo.png"
 [[menu.main]]
 name = "blog"
-url = "/post/"
+url = "post/"
 weight = 5
 [[menu.main]]
 name = "home"
@@ -20,7 +21,7 @@ email = "info@graphitedge.comm.au"
 favicon = "/uploads/2018/03/19/graphiteLogoTrans.png"
 footerenablecontact = true
 footerenablefollowme = true
-footerenableformwidget = true
+footerenableformwidget =false
 footerenabletextwidget = false
 name = "Graphitedge"
 phone = "+618 6102 5624"

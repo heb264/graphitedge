@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Graphitedge</title>
+    <link>https://graphitedge.com.au/post/</link>
+    <description>Recent content in Posts on Graphitedge</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Sep 2017 12:26:26 +0800</lastBuildDate>
+    
+	<atom:link href="https://graphitedge.com.au/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CONVERSATIONS WITH YOUR WEB DEVELOPER, DESIGNER, AGENCY</title>
+      <link>https://graphitedge.com.au/post/what-your-developer-needs/</link>
+      <pubDate>Wed, 20 Sep 2017 12:26:26 +0800</pubDate>
+      
+      <guid>https://graphitedge.com.au/post/what-your-developer-needs/</guid>
+      <description>Part 1: What your web developer, designer, or agency needs from you So you are ready to start a your conversation with your web technologist. Great! There are somethings that you can prepare before hand to help them give you the best advice, design and help. # more Firstly, provide information about what your business actually does. This helps the web technologist get a thorough understanding about what you do, who you are, how long you have been in business, your point of difference from your competitors.</description>
+    </item>
+    
+    <item>
+      <title>Life was simple once ...</title>
+      <link>https://graphitedge.com.au/post/life-was-simple-once/</link>
+      <pubDate>Mon, 17 Jun 2013 12:00:00 +0000</pubDate>
+      
+      <guid>https://graphitedge.com.au/post/life-was-simple-once/</guid>
+      <description>The pervasiveness of the technological age. A telephone was a device for conversation between two people. People wrote letters when they had finished writing they put them in the mailbox. A car may have a radio in it; most cars did have one at all.
+Now we have all this “stuff” that is connected. Connected in multiple ways as well. We have a phone that can bring the world to our fingertips.</description>
+    </item>
+    
+  </channel>
+</rss>
