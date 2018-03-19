@@ -3,10 +3,10 @@ googleAnalytics = ""
 languageCode = "en-us"
 theme = "graphite-custom"
 title = "Graphitedge"
-logo =" images/logo.png"
+logo =" /images/logo.png"
 [[menu.main]]
 name = "blog"
-url = "post/"
+url = "/post/"
 weight = 5
 [[menu.main]]
 name = "home"

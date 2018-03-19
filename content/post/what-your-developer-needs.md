@@ -1,13 +1,14 @@
 ---
-title: "CONVERSATIONS WITH YOUR WEB DEVELOPER, DESIGNER, AGENCY: Part 1"
+title: "CONVERSATIONS WITH YOUR WEB DEVELOPER, DESIGNER, AGENCY: Part 2"
 date: 2017-09-20 12:26:26 +0800
-description: "Part 1 of having a discussion to start your website project"
+draft: false;
+description: "Part 2 of having a discussion to start your website project"
 keywords: ["web technologist", "website project", "web designer", "web developer"]
 layout: "post"
 type: "post"
 
 ---
-## Part 1: What your web developer, designer, or agency needs from you
+## What your web developer, designer, or agency needs from you
 So you are ready to start a your conversation with your web technologist. Great! There are somethings that you can prepare before hand to help them give you the best advice, design and help. # more
 Firstly, provide information about what your business actually does. This helps the web technologist get a thorough understanding about what you do, who you are, how long you have been in business, your point of difference from your competitors. This information is so important in regards to how you site is designed to support your business.  If you are building a house you would like the designer and builder to understand how you would live in that house and any particular lifestyle quirks that the house would need to cater for.
 Following on from this,  how is the site going to support your business?  In other words what is the site going to accomplish. This is often called the goal or aim of the website. If it is about selling your products or services then there are a whole section of design decisions that impact on the design compared to a brochure site, with just a blog. If you have a clear understanding about how the site is going to support your business then it means that the web technologist will have a better  understanding. Some questions to think about to provide answer to your web technologist are:
@@ -48,4 +49,4 @@ This is something only you are the business owner can define.  It might be about
 
 
 So once you have all this information ready for your discussion go ahead and book the meeting to kick off  your project. 
-If you like what you have read then do not hesitate to contact me to start the ball rolling on your next digital project. I can help you with all of the above and then some more. Or download our Free checklist for getting your website started.
+If you like what you have read then do not hesitate to contact me to start the ball rolling on your next digital project. I can help you with all of the above and then some more. 

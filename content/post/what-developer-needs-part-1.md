@@ -1,9 +1,11 @@
 ---
+title: "CONVERSATIONS WITH YOUR WEB DEVELOPER, DESIGNER, AGENCY: Part 1"
+date: 2017-09-06T12:54:45+08:00
+draft: false
+description: "Part 1 of having a discussion to start your website project"
 keywords: ["web technologist", "website project", "web designer", "web developer"]
-title: "CONVERSATIONS WITH YOUR WEB DEVELOPER, DESIGNER, AGENCY: Part 2"
-date: 2018-03-19T12:54:45+08:00
-draft: true
-description: ""Part 2 of having a discussion to start your website project""
+layout: "post"
+type: "post"
 ---
 
 Have you gone through a website build only to not have your requirements not met? Have you been looking for someone to build your website, yet find that there is often too high a price to pay? Have you had a web designer, developer or agency string you along and not delivered? Have you gone into a website build only to discover what was not delivered was not what you required?
@@ -37,3 +39,5 @@ After the first meeting, you received the proposal. Make your decision about who
 * PAY them according to their terms.
 It always seems a struggle to get the right web technologist to build you website. Once you have found them then you will never have to find another one. Keep in mind the points made in this article, and you will find a web technologist that works with you. Not their own agenda or for you.
 Remember, just because there is a list of questions doesn’t mean that you get the right web technologist.
+
+If you like what you have read then do not hesitate to contact me to start the ball rolling on your next digital project. I can help you with all of the above and then some more. 
