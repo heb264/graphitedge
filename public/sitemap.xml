@@ -43,10 +43,6 @@
   </url>
   
   <url>
-    <loc>https://graphitedge.com.au/about/</loc>
-  </url>
-  
-  <url>
     <loc>https://graphitedge.com.au/categories/</loc>
     <priority>0</priority>
   </url>
@@ -85,6 +81,10 @@
   
   <url>
     <loc>https://graphitedge.com.au/recent-works/0/</loc>
+  </url>
+  
+  <url>
+    <loc>https://graphitedge.com.au/about/</loc>
   </url>
   
 </urlset>

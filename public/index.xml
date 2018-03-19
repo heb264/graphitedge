@@ -96,22 +96,21 @@ Now we have all this “stuff” that is connected. Connected in multiple ways a
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://graphitedge.com.au/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://graphitedge.com.au/about/</guid>
-      <description>GraphitEdge is Helen Burgess and Helen Burgess is GraphitEdge.
-The Story behind the logo and name Helen&amp;rsquo;s nickname for the longest time as HB as in HB pencil. This spurred the idea to call her business Graphite Edge. Well, why Graphite Edge? Most of the best names for having a sharp pencil were already taken and by talking with some of her industry besties, Helen decided to take a twist on the name.</description>
-    </item>
-    
-    <item>
       <title>WordPress Course for Codemaster Institute</title>
       <link>https://graphitedge.com.au/recent-works/0/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://graphitedge.com.au/recent-works/0/</guid>
       <description>The creation and recording of video for the Go WordPress Online Course that takes students from installing on both the local and remote environments through to adding in Woo Commerce plus configuring it.</description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://graphitedge.com.au/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://graphitedge.com.au/about/</guid>
+      <description>GraphitEdge is Helen Burgess and Helen Burgess is GraphitEdge. The Story behind the logo and name Helen&amp;rsquo;s nickname for the longest time as HB as in HB pencil. This spurred the idea to call her business Graphite Edge. Well, why Graphite Edge? Most of the best names for having a sharp pencil were already taken and by talking with some of her industry besties, Helen decided to take a twist on the name.</description>
     </item>
     
   </channel>

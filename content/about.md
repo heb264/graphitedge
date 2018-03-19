@@ -1,11 +1,11 @@
 +++
-title = "About"
+title = "about"
 type = "about"
 [menu.main]
 weight = 10
 
 +++
-GraphitEdge is Helen Burgess and Helen Burgess is GraphitEdge. 
+## GraphitEdge is Helen Burgess and Helen Burgess is GraphitEdge. 
 
 ![about](../images/mac.jpg)
 
