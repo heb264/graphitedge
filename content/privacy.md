@@ -4,7 +4,7 @@ title: "Privacy"
 date: 2017-07-19T14:55:08+08:00
 draft: false
 description: "Privacy policy for Graphitedge."
-keywords: [privacy policy legals]
+keywords: ["privacy policy", "legals"]
 ---
 
 This following document sets forth the Privacy Policy for the Graphite Edge Pty Ltd trading as GraphitEdge website, http://graphitedge.com.au.
