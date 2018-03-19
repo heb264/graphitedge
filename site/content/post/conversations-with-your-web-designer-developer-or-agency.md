@@ -2,6 +2,7 @@
 title: 'Conversations with your web designer, developer or agency'
 date: '2017-09-06T11:14:34+08:00'
 description: Part 1 of having a discussion to start your website project
+image: /images/farzad-nazifi-71686-sml.png
 ---
 Have you gone through a website build only to not have your requirements not met? Have you been looking for someone to build your website, yet find that there is often too high a price to pay? Have you had a web designer, developer or agency string you along and not delivered? Have you gone into a website build only to discover what was not delivered was not what you required?
 
