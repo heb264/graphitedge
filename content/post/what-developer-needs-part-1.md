@@ -1,11 +1,12 @@
 ---
-title: "CONVERSATIONS WITH YOUR WEB DEVELOPER, DESIGNER, AGENCY: Part 1"
-date: 2017-09-06T12:54:45+08:00
-draft: false
-description: "Part 1 of having a discussion to start your website project"
-keywords: ["web technologist", "website project", "web designer", "web developer"]
-layout: "post"
-type: "post"
+title: 'Conversations With Your Web Developer, Designer, Agency: Part 1'
+date: 2017-09-06T04:54:45.000Z
+description: Part 1 of having a discussion to start your website project
+keywords:
+  - web technologist
+  - website project
+  - web designer
+  - web developer
 ---
 
 Have you gone through a website build only to not have your requirements not met? Have you been looking for someone to build your website, yet find that there is often too high a price to pay? Have you had a web designer, developer or agency string you along and not delivered? Have you gone into a website build only to discover what was not delivered was not what you required?
