@@ -19,7 +19,6 @@ fields:
   name: type
   label: type
   description: the type of page
-- type: text
 - type: number
   label: weight
   name: weight
@@ -29,3 +28,7 @@ fields:
     max: '100'
     step: '5'
     required: true
+- type: file
+  name: image
+  label: image
+  description: this is an image for the about page.
