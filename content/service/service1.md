@@ -1,4 +1,10 @@
 +++
+keywords =
+- graphitedge.com.au
+- website maintenance
+- updates
+- training
+
 date = 2015-07-01
 title = "Web Mastery"
 icon = "fa-cogs"
