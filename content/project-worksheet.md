@@ -9,7 +9,7 @@ keywords: []
 ## Website Project Enquiry
 We would love to hear from you! Please fill out this form and we will get in touch with you shortly.
 
-<form name="contact" action="thank-you" netlify>
+<form name="website-project-worksheet" action="thank-you" netlify>
     <div id="1" class="form-group">
     <label for="purpose">Purpose</label>
     <p>This is your opportunity to tell us why you need a website and what the website should achieve. The more information you give us here, the better the solution we will be able to provide.  Ignore any questions that are not relevant.</p>
