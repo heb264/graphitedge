@@ -7,6 +7,8 @@ keywords:
   - website project
   - web designer
   - web developer
+layout: "post"
+type: "post"
 ---
 ## What your web developer, designer, or agency needs from you
 So you are ready to start a your conversation with your web technologist. Great! There are somethings that you can prepare before hand to help them give you the best advice, design and help. # more

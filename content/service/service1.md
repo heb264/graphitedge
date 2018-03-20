@@ -4,12 +4,13 @@ description = "The site maintainer you need to keep your site up to date"
 icon = "fa-cogs"
 keywords = ["graphitedge", "web maintenance", "training", "web development"]
 title = "Web Mastery"
-type = "default"
+type = "service"
 
 +++
 The Site Maintainer YOU need.
 Since website downtime can be a costly thing for your business, Helen is able guide you through being a novice to web master in how to keep your site up and running.
 
 <!--more-->
+Fill out the [Website Project Worksheet](/project-worksheet/) and Helen will get in touch with you as soon as she can.
 
 
