@@ -5,50 +5,30 @@
 			<div class="col-md-3 widget">
 				<h3 class="widget-title">Contact</h3>
 				<div class="widget-body">
-					<p>{{ .Site.Params.phone }}<br>
-						<a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a><br>
+					<p>{{ .Site.Params.phone }}
 						<br>
-						{{ .Site.Params.address }}
+						<a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a>
+						<br>
+						<br> {{ .Site.Params.address }}
 					</p>
 				</div>
 			</div>
-			{{ end }}
-
-			{{ if .Site.Params.footerEnableFollowme }}
+			{{ end }} {{ if .Site.Params.footerEnableFollowme }}
 			<div class="col-md-3 widget">
 				<h3 class="widget-title">Follow me</h3>
 				<div class="widget-body">
 					<p class="follow-me-icons">
-                        {{ range .Site.Params.social }}
-                            {{ if .footer }}
-                                <a href="{{ .url }}" target="_blank"><i class="fab {{ .icon }} fa-2"></i></a>
-                            {{ end }}
-                        {{ end }}
+						{{ range .Site.Params.social }} {{ if .footer }}
+						<a href="{{ .url }}" target="_blank">
+							<i class="fab {{ .icon }} fa-2"></i>
+						</a>
+						{{ end }} {{ end }}
 					</p>
 				</div>
 			</div>
 			{{ end }}
 
-			{{ if .Site.Params.footerEnableTextWidget }}
-			<div class="col-md-3 widget">
-				<h3 class="widget-title">Text widget</h3>
-				<div class="widget-body">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, nihil natus explicabo ipsum quia iste aliquid repellat eveniet velit ipsa sunt libero sed aperiam id soluta officia asperiores adipisci maxime!</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, nihil natus explicabo ipsum quia iste aliquid repellat eveniet velit ipsa sunt libero sed aperiam id soluta officia asperiores adipisci maxime!</p>
-				</div>
-			</div>
-			{{ end }}
-
-			{{ if .Site.Params.footerEnableFormWidget }}
-			<div class="col-md-3 widget">
-				<h3 class="widget-title">Send Helen a message.</h3>
-				<div class="widget-body">
-					<p>
-					</p>
-				</div>
-			</div>
-			{{ end }}
-			<div class="col-md-3 widget">
+			<div class="col-md-6 widget">
 				<ul class="nav">
 					{{ range .Site.Menus.footer }}
 					<li class="nav-item">
@@ -57,7 +37,8 @@
 					{{end}}
 				</ul>
 			</div>
-		</div> <!-- /row of widgets -->
+		</div>
+		<!-- /row of widgets -->
 	</div>
 </footer>
 
@@ -67,21 +48,22 @@
 
 			<div class="col-md-6 widget">
 				<div class="widget-body">
-					<p>{{ .Site.Params.address }}</p>
+					<p></p>
 				</div>
 			</div>
 
 			<div class="col-md-6 widget">
 				<div class="widget-body">
 					<p class="text-right">
-						Copyright &copy; {{ .Site.Params.year }}, {{ .Site.Params.name }}<br>
-						Design: GraphitEdge - 
-                        Powered by: <a href="https://gohugo.io/" rel="poweredby">Hugo</a>
-                    </p>
+						Copyright &copy; {{ .Site.Params.year }}, {{ .Site.Params.name }}
+						<br> Design: GraphitEdge - Powered by:
+						<a href="https://gohugo.io/" rel="poweredby">Hugo</a>
+					</p>
 				</div>
 			</div>
 
-		</div> <!-- /row of widgets -->
+		</div>
+		<!-- /row of widgets -->
 	</div>
 </footer>
 
@@ -89,19 +71,19 @@
 
 <!-- JavaScript libs are placed at the end of the document so the pages load faster -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.bundle.min.js"></script>
-{{ partial "analyticstracking.html" . }}
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.bundle.min.js"></script> {{ partial "analyticstracking.html" . }}
 <script>
-		if (window.netlifyIdentity) {
-		  window.netlifyIdentity.on("init", user => {
+	if (window.netlifyIdentity) {
+		window.netlifyIdentity.on("init", user => {
 			if (!user) {
-			  window.netlifyIdentity.on("login", () => {
-				document.location.href = "/admin/";
-			  });
+				window.netlifyIdentity.on("login", () => {
+					document.location.href = "/admin/";
+				});
 			}
-		  });
-		}
-	  </script>
-	  
+		});
+	}
+</script>
+
 </body>
+
 </html>

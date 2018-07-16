@@ -13,6 +13,10 @@ name = "home"
 url = "/"
 weight = 1
 [[menu.footer]]
+name = "terms and conditions"
+url = "/terms/"
+weight = 10
+[[menu.footer]]
 name = "privacy policy"
 url = "/privacy/"
 weight = 5
@@ -25,14 +29,14 @@ address = "Greenwood Western Australia 6024"
 background = ""
 dateform = "January 2, 2006"
 description = "A Sharp Pencil & A Dream Can Take You Anywhere"
-email = "info@graphitedge.comm.au"
+email = "info@graphitedge.com.au"
 favicon = "/uploads/2018/03/19/graphiteLogoTrans.png"
 footerenablecontact = true
 footerenablefollowme = true
 footerenableformwidget =false
 footerenabletextwidget = false
 name = "Graphitedge"
-phone = "+618 6102 5624"
+phone = "+61 8 6102 5624"
 showclients = false
 showdownload = false
 showrecentworks = true
@@ -48,14 +52,14 @@ custom = true
 property = "5aa60cf5589d90001319f50e"
 [[params.social]]
 footer = true
-icon = "fa-facebook-square"
+icon = "fa-facebook-f"
 network = "facebook"
 sharethis = true
 title = "facebook"
 url = "https://www.facebook.com/graphitedge"
 [[params.social]]
 footer = true
-icon = "fa-twitter-square"
+icon = "fa-twitter"
 network = "twitter"
 sharethis = true
 title = "twitter"
@@ -82,23 +86,17 @@ sharethis = false
 title = "linkedin"
 url = "https://www.linkedin.com/in/nickname"
 [[params.social]]
-footer = false
-icon = "fa-tumblr-square"
-network = "tumblr"
-sharethis = false
-title = "tumblr"
-url = "https://nickname.tumblr.com"
+footer = true
+icon = "fa-codepen"
+network = "codepen"
+sharethis = true
+title = "codepen"
+url = "https://codepen.io/hlnbee"
 [[params.social]]
-footer = false
+footer = true
 icon = "fa-github"
 network = ""
-sharethis = false
-title = "github"
-url = "https://github.com/nickname"
-[[params.social]]
-footer = false
-icon = "fa-envelope"
-network = "email"
 sharethis = true
-title = "email"
-url = "mailto:info@graphitedge.com.au"
+title = "github"
+url = "https://github.com/hlnb"
+
