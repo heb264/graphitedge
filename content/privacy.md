@@ -1,38 +1,57 @@
 ---
 
 title: "Privacy"
-date: 2017-07-19T14:55:08+08:00
+date: 2018-07-16
 draft: false
 description: "Privacy policy for Graphitedge."
 keywords: ["privacy policy", "legals"]
 ---
 
-This following document sets forth the Privacy Policy for the Graphite Edge Pty Ltd trading as GraphitEdge website, http://graphitedge.com.au.
+This Privacy Policy sets out our commitment to protecting the privacy of your personal information that we collect through this website [graphitedge.com.au](https://graphitedge.com.au) (Site) or directly from you.
+Please read this Privacy Policy carefully. Please contact us if you have any questions.
 
-GraphitEdge is committed to providing you with the best possible customer service experience. Graphite Edge Pty Ltd is bound by the Privacy Act 1988 (Cth), which sets out a number of principles concerning the privacy of individuals.
-## Collection of your personal information
+You providing us with personal information indicates that you have had sufficient opportunity to access this Privacy Policy and that you have read and accepted it.
 
-There are many aspects of the site which can be viewed without providing personal information, however, for access to future Graphite Edge Pty Ltd customer support features you are required to submit personally identifiable information. This may include but not limited to a unique username and password, or provide sensitive information in the recovery of your lost password.
-Sharing of your personal information
+If you do not wish to provide personal information to us, then you do not have to do so, however it may affect your use of this Site or any products and services offered on it.
 
-We may occasionally hire other companies to provide services on our behalf, including but not limited to handling customer support enquiries, processing transactions or customer freight shipping. Those companies will be permitted to obtain only the personal information they need to deliver the service. Graphite Edge Pty Ltd takes reasonable steps to ensure that these organisations are bound by confidentiality and privacy obligations in relation to the protection of your personal information.
-Use of your personal information
+## 1. Type of personal information collected
 
-For each visitor to reach the site, we expressively collect the following non-personally identifiable information, including but not limited to browser type, version and language, operating system, pages viewed while browsing the Site, page access times and referring website address. This collected information is used solely internally for the purpose of gauging visitor traffic, trends and delivering personalized content to you while you are at this Site.
+**Personal Information**: The type of personal information we collect may include is set out on our website.
+If we receive your personal information from third parties, we will protect it as set out in this Privacy Policy.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only, data collected from the time of the policy change forward will adhere to our updated practices.
-## Changes to this Privacy Policy
+## 2. Collection and use of personal information
 
-GraphitEdge reserves the right to make amendments to this Privacy Policy at any time. If you have objections to the Privacy Policy, you should not access or use the Site.
-## Accessing Your Personal Information
+We collect and use the personal information for purposes including to contact and communicate with you, for internal record keeping and for marketing.
 
-You have a right to access your personal information, subject to exceptions allowed by law. If you would like to do so, please let us know. You may be required to put your request in writing for security reasons. Graphite Edge Pty Ltd reserves the right to charge a fee for searching for, and providing access to, your information on a per request basis.
-## Contacting us
+## 3. Disclosure of personal information
 
-GraphitEdge welcomes your comments regarding this Privacy Policy. If you have any questions about this Privacy Policy and would like further information, please contact us by any of the following means during business hours Monday to Friday.
+We may disclose personal information for purposes including to provide our products and services to you, and as required by law.
 
-Post: Attn: Privacy Policy,
-Graphite Edge Pty Ltd,
-93 Blackall Dr. Greenwood, WA 6024
+Where we disclose your personal information to third parties for these purposes, we will request that the third party follow this Privacy Policy regarding handling of your personal information.
 
-E-mail: privacy-policy@graphitedge.com.au 
+## 4. Access to and correction of personal information
+
+**Access**: You may request details of personal information that we hold about you, in certain circumstances set out in the Privacy Act 1988 (Cth). An administrative fee may be payable for the provision of information. We may refuse to provide you with information that we hold about you, in certain circumstances set out in the Privacy Act.
+
+**Correction**: If you believe that any information we hold on you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact us by email. We rely in part upon customers advising us when their personal information changes. We will respond to any request within a reasonable time. We will endeavor to promptly correct any information found to be inaccurate, incomplete or out of date.
+
+## 5. Complaints about breach
+
+If you believe that we have breached the Australian Privacy Principles and wish to make a complaint about that breach, please contact us on the email address below.
+
+## 6. Unsubscribe
+
+To unsubscribe from our e-mail database, or opt out of communications, please contact us at the details below.
+
+## 7. Storage and Security
+
+We are committed to ensuring that the information you provide is secure.
+
+### For any questions or notice, please contact us at:
+
+**Graphite Edge Pty Ltd ABN**: 46 607 057 723
+
+**Email**: info@graphitedge.com.au
+
+Last update: 16 July 2018
+This policy is provided by [legalvision.com.au](https://legalvision.com.au)
