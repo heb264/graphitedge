@@ -1,2 +1,4 @@
 A static site for Graphitedge using Hugo based on Creative theme port by DigitalCraftsman of StartBootstrap's Creative Theme.
 I decided to use this instead as using a CMS like WordPress was like using a supercar for a daily drive. By using Hugo I have been exploring this Static Site Generator and how I can use it for client sites.
+
+Site is hosted on Netlify which made it really simlpe to connect to this repo and update as needed. Creating a nice CI/CD pipeline.
