@@ -1,102 +1,43 @@
-baseurl = "https://graphitedge.com.au/"
-googleAnalytics = ""
+baseURL = "graphitedge.com.au"
 languageCode = "en-us"
-theme = "graphite-custom"
 title = "Graphitedge"
-logo =" /images/logo.png"
-[[menu.main]]
-name = "blog"
-url = "/post/"
-weight = 5
-[[menu.main]]
-name = "home"
-url = "/"
-weight = 1
-[[menu.footer]]
-name = "terms and conditions"
-url = "/terms/"
-weight = 10
-[[menu.footer]]
-name = "privacy policy"
-url = "/privacy/"
-weight = 5
-[[menu.footer]]
-name="home"
-url = "/"
-weight = 1
-[params]
-address = "Greenwood Western Australia 6024"
-background = ""
-dateform = "January 2, 2006"
-description = "A Sharp Pencil & A Dream Can Take You Anywhere"
-email = "info@graphitedge.com.au"
-favicon = "/uploads/2018/03/19/graphiteLogoTrans.png"
-footerenablecontact = true
-footerenablefollowme = true
-footerenableformwidget =false
-footerenabletextwidget = false
-name = "Graphitedge"
-phone = "+61 8 6102 5624"
-showclients = false
-showdownload = false
-showrecentworks = true
-showservices = true
-showsubheader = true
-year = 2018
-[params.disqus]
-site = ""
-[params.google.analytics]
-trackerid = "UA-76054930-1"
-[params.sharethis]
-custom = true
-property = "5aa60cf5589d90001319f50e"
-[[params.social]]
-footer = true
-icon = "fa-facebook-f"
-network = "facebook"
-sharethis = true
-title = "facebook"
-url = "https://www.facebook.com/graphitedge"
-[[params.social]]
-footer = true
-icon = "fa-twitter"
-network = "twitter"
-sharethis = true
-title = "twitter"
-url = "https://twitter.com/graphitedgeau"
-[[params.social]]
-footer = false
-icon = "fa-instagram"
-network = ""
-sharethis = false
-title = "instagram"
-url = "https://www.instagram.com/nickname"
-[[params.social]]
-footer = false
-icon = "fa-google-plus-square"
-network = "googleplus"
-sharethis = false
-title = "google+"
-url = "https://plus.google.com/+nickname"
-[[params.social]]
-footer = false
-icon = "fa-linkedin-square"
-network = "linkedin"
-sharethis = false
-title = "linkedin"
-url = "https://www.linkedin.com/in/nickname"
-[[params.social]]
-footer = true
-icon = "fa-codepen"
-network = "codepen"
-sharethis = true
-title = "codepen"
-url = "https://codepen.io/hlnbee"
-[[params.social]]
-footer = true
-icon = "fa-github"
-network = ""
-sharethis = true
-title = "github"
-url = "https://github.com/hlnb"
+themesDir = "../.."
+theme = "hugo-hero-theme"
 
+[params]
+  google_analytics_id="UA-76054930-1"
+
+  [params.homepage_meta_tags]
+    meta_description = "Graphitedge is the public face for Helen Burgess. A Web Developer and trainer who works with SME Businesses."
+    meta_og_title = "Graphitedge"
+    meta_og_type = "website"
+    meta_og_url = "https://"
+    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-hero-theme/master/images/tn.png"
+    meta_og_description = "Graphitedge is the public face for Helen Burgess. A Web Developer and trainer who works with SME Businesses"
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@graphitedgeau"
+    meta_twitter_creator = "@graphitedgeau"
+
+[[menu.main]]
+	name = "Services"
+	url = "/services/"
+    weight = 1
+
+[[menu.main]]
+    name = "Portfolio"
+    url = "/portfolio/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"

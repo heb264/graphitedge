@@ -1,12 +1,9 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
-contact_entries:
-  - heading: Location
-    text: "93 Blackall Dr, Greenwood, Western Australia 6024"
-  - heading: Working hours
-    text: "Monday – Friday: 9AM – 4pm We’re closed on Saturdays &Sundays"
+title: 'Contact'
+date: 2018-02-22T17:01:34+07:00
 ---
+
+We offer a free consultation for all new clients.
 
 We’d love to get in touch with you and hear your ideas and
 questions. We strive to grow and improve constantly and your feedback
